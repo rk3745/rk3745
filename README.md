@@ -1,10 +1,5 @@
 <img width="1000" height="300" alt="image" src="https://github.com/user-attachments/assets/3fad279c-0496-4664-81db-d3837063aa6f" />
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=120&section=header&reversal=false&text=Hi%20%F0%9F%91%8B%20I'm%20Rahul%20Sharma,&fontSize=50&fontColor=black&fontAlignY=30&stroke=dynamic&strokeWidth=50&animation=scaleIn&desc=A%20Data%20Science%20Enthusiastic&descSize=32&descAlign=50&descAlignY=75&textBg=false&color=gradient"  />
-</div>
-
-###
 # 💫 About Me:
 🔭 I'm currently working on: Building a COVID-19 case tracker using Python to practice data ingestion from an API and create simple time-series plots.<br><br>🤝 I'm looking to collaborate on: Introductory Kaggle competitions, specifically those focused on data cleaning and feature engineering.<br><br>💛 I'm looking for help with: Optimizing my SQL queries, particularly mastering joins and subqueries—any efficient tips are welcome!<br><br>💡 I'm currently learning: The fundamentals of Descriptive Statistics (mean, median, standard deviation) and intermediate Python concepts like object-oriented programming.<br><br>💬 Ask me about: The best way to manage dependencies in Python projects, or my recommendations for documentary films on AI ethics.<br><br>⚡ Fun fact: I can't look at a spreadsheet without immediately checking the number of unique values in every column.<br><br>
 
