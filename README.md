@@ -1,3 +1,5 @@
+<img width="1000" height="300" alt="image" src="https://github.com/user-attachments/assets/3fad279c-0496-4664-81db-d3837063aa6f" />
+
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=120&section=header&reversal=false&text=Hi%20%F0%9F%91%8B%20I'm%20Rahul%20Sharma,&fontSize=50&fontColor=black&fontAlignY=30&stroke=dynamic&strokeWidth=50&animation=scaleIn&desc=A%20Data%20Science%20Enthusiastic&descSize=32&descAlign=50&descAlignY=75&textBg=false&color=gradient"  />
 </div>
