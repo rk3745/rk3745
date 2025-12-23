@@ -3,20 +3,6 @@
 </div>
 
 ###
-
-<div align="center">
-  <a href="www.linkedin.com/in/rahul-sharma-86748b395" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=black&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="@RK_sharma_3745" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=black&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-  <a href="@Rksharma3745" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-  </a>
-</div>
-
-###
 # 💫 About Me:
 🔭 I'm currently working on: Building a COVID-19 case tracker using Python to practice data ingestion from an API and create simple time-series plots.<br><br>🤝 I'm looking to collaborate on: Introductory Kaggle competitions, specifically those focused on data cleaning and feature engineering.<br><br>💛 I'm looking for help with: Optimizing my SQL queries, particularly mastering joins and subqueries—any efficient tips are welcome!<br><br>💡 I'm currently learning: The fundamentals of Descriptive Statistics (mean, median, standard deviation) and intermediate Python concepts like object-oriented programming.<br><br>💬 Ask me about: The best way to manage dependencies in Python projects, or my recommendations for documentary films on AI ethics.<br><br>⚡ Fun fact: I can't look at a spreadsheet without immediately checking the number of unique values in every column.<br><br>
 
