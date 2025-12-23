@@ -1,4 +1,4 @@
-"C:\Users\ASUS\Downloads\Blue and White Gradient Profile Data Analyst LinkedIn Article Cover Image.png"
+"C:\Users\ASUS\OneDrive\Desktop\Screenshot 2025-12-23 125829.png"
 # 💫 About Me:
 🔭 I'm currently working on: Building a COVID-19 case tracker using Python to practice data ingestion from an API and create simple time-series plots.<br><br>🤝 I'm looking to collaborate on: Introductory Kaggle competitions, specifically those focused on data cleaning and feature engineering.<br><br>💛 I'm looking for help with: Optimizing my SQL queries, particularly mastering joins and subqueries—any efficient tips are welcome!<br><br>💡 I'm currently learning: The fundamentals of Descriptive Statistics (mean, median, standard deviation) and intermediate Python concepts like object-oriented programming.<br><br>💬 Ask me about: The best way to manage dependencies in Python projects, or my recommendations for documentary films on AI ethics.<br><br>⚡ Fun fact: I can't look at a spreadsheet without immediately checking the number of unique values in every column.<br><br>
 
